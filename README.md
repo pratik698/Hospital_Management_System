@@ -24,4 +24,4 @@
 4. open XAMPP server
 5. Create Database Name is " hospital "
 6. import Database file from "DATABASE" folder (hospital.sql) in database(hospital)
-7. Now run on localhost 
+7. Now run on your Browser like (http://localhost/hospital_manage/home.php) 
